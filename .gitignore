@@ -1,0 +1,10 @@
+*.[oa]
+*.so
+*~
+*.nogem
+*nogem.*
+*.bak
+*.org
+*.gem
+*.pyc
+*.yardoc
